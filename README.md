@@ -1,8 +1,6 @@
 # Find Steiner minimum tree (SMT)
 
-## or "my first C# project"
-
-
+## Also "my first C# project"
 
 Implementation of multiple algorithms and heuristics to find a SMT:
 
@@ -19,7 +17,7 @@ The minimal Steiner tree problem for undirected graphs is closely related to the
 
 
 
-![explanation](figures\explanation.png)
+![explanation](./figures/explanation.png)
 
 ### Formal Defintion
 
@@ -32,7 +30,7 @@ In the case of $|K| = 2$, the Steiner tree is equivalent to the shortest path be
 
 ### Found SMT
 
-![example](figures\example.png)
+![example](./figures/example.png)
 
 
 
